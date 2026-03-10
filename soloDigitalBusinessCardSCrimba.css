@@ -1,0 +1,108 @@
+    body {
+            background-color: #23252c;
+            color: white;
+            text-align: center;
+            font-family: 'Inter';
+            font-optical-sizing: auto;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .profile-img {
+            width: 100%;
+            height: 400px;
+            padding-bottom: 10px;
+
+        }
+
+        .card-container {
+            background-color: #1A1B21;
+            width: 350px;
+            margin: 50px auto;
+            border-radius: 10px;
+            overflow: hidden;
+
+
+        }
+
+        #full-name {
+            font-weight: 700;
+            margin-top: 20px;
+            margin-bottom: 0;
+            font-size: 25px;
+            
+        }
+
+        #job-title {
+            color: #F3BF99;
+            font-size: 12px;
+            margin-top: 3px;
+            margin-bottom: 10px;
+            font-weight: 400;
+            padding-bottom: 8px;
+        }
+
+        p {
+            font-size: 12px;
+            text-align: left;
+               font-size: 10px;
+            margin: 0px 36px 0 36px;
+            line-height: 1.5;
+
+        }
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    gap: 17px;
+}
+        .email-btn, .linkedin-btn {
+            background-color: white;
+            width: 115px;
+            height: 34px;
+            border-radius: 6px;
+            margin-top: 10px;
+            font-family: 'Inter';
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+
+        }
+
+        .linkedin-btn {
+            background-color: #5093E2;
+          
+            color: white;
+
+
+        }
+
+        .email-icon,
+        .linkedin-icon {
+   
+        }
+        .logo-wrapper {
+            margin-top: 20px;
+            padding-bottom: 5px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: row;
+            gap: 24px;
+            background-color: #161619;
+            width: 350px;
+            height: 70px;
+        }
+        #website {
+            text-align: center;
+        }
+        h3 {
+            text-align: left;
+            margin-left: 36px;
+            margin-top: 20px;
+            margin-bottom: 5px;
+            font-size: 16px;
+        }
